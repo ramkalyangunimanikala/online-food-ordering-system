@@ -12,6 +12,8 @@ Password: admin <br>
 
 <img src="https://github.com/nilesh-kawar/Online-Food-Ordering-System/blob/main/screenshots/home.png"/>
 
+To check the live website (https://ramkalyangunimanikala.github.io/online-food-ordering-system/)
+
 Find how the project looks in screenshots folder Or <a href="https://github.com/nilesh-kawar/Online-Food-Ordering-System/blob/main/screenshots/"> click here </a>
 
 ## Technologies Used
